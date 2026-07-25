@@ -15,11 +15,11 @@
       "versions": [
         {
           "version": "1.0",
-          "buildVersion": "4",
+          "buildVersion": "5",
           "date": "2026-07-26",
           "localizedDescription": "Neuer Build vom 26.07.2026.",
           "downloadURL": "https://raw.githubusercontent.com/nicolasjankovich-netizen/k-b50b85ce46/main/Kapitel.ipa",
-          "size": 1061833,
+          "size": 1064614,
           "minOSVersion": "16.0"
         }
       ]
