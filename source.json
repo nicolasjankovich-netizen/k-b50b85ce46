@@ -1,0 +1,28 @@
+{
+  "name": "Kapitel",
+  "identifier": "com.nicolas.kapitel.source",
+  "subtitle": "Bücher und Manga",
+  "apps": [
+    {
+      "name": "Kapitel",
+      "bundleIdentifier": "com.nicolas.Kapitel",
+      "developerName": "Kinekt",
+      "subtitle": "Lesen, was da ist.",
+      "localizedDescription": "Kapitel liest EPUB, CBZ und PDF — mit Seitenrolle, Bionic Reading und geteiltem Regal.",
+      "iconURL": "https://raw.githubusercontent.com/nicolasjankovich-netizen/k-b50b85ce46/main/icon.png",
+      "tintColor": "A6642E",
+      "category": "reading",
+      "versions": [
+        {
+          "version": "1.0",
+          "buildVersion": "3",
+          "date": "2026-07-26",
+          "localizedDescription": "Neuer Build vom 26.07.2026.",
+          "downloadURL": "https://raw.githubusercontent.com/nicolasjankovich-netizen/k-b50b85ce46/main/Kapitel.ipa",
+          "size": 1051765,
+          "minOSVersion": "16.0"
+        }
+      ]
+    }
+  ]
+}
